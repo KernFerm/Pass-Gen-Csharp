@@ -9,3 +9,6 @@ HOW TO COMPILE
 ==============
 OPEN THE PROJECT IN VS NET FRAMEWORK 4.8
 CLICK BUILD
+
+
+[Download The Exe of PassGen C#](https://github.com/ImTheOneWhoWatches/Pass-Gen-Csharp/releases/tag/1.0)
